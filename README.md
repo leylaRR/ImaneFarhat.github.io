@@ -4,6 +4,8 @@ I am currently a third year student at Ecole Polytechnique majoring in Applied M
 ## Research projects
 * **On multi-currency arbitrage on FX options and calibration of a Wishart model**
 _Advisor : [Peter Tankov] (https://www.lpsm.paris/pageperso/tankov/) (Report to be uploaded soon)._
+  - Explored a model-free approach to detect arbitrage opportunities on FX options related to a triangle of exchange rates, for example options on the rates USD/EUR, JPY/EUR and JPY/USD. 
+  - Calibrating the Wishart model for a triangle of exchange rates. 
 
 * **Simulation of rare events**
 _Advisors : [Emmanuel Gobet] (http://www.cmap.polytechnique.fr/~gobet/) and [Stefano de Marco] (http://www.cmap.polytechnique.fr/~demarco/)_
