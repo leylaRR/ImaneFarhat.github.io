@@ -14,5 +14,8 @@ _Advisors : [Emmanuel Gobet] (http://www.cmap.polytechnique.fr/~gobet/) and [Ste
   - Assessed contagion and systemic risk in this network using Monte Carlo stochastic simulations. 
   - Used different techniques to simulate rare events (of very low-probability) such as the default of all banks in the network. 
   
-* ** Exploring the use of AI techniques for "intelligent anomaly detection" in data and its application to risk management **
+* ** Exploring the use of AI techniques for "intelligent anomaly detection" in data and its application to risk management**
 _Advisors : [Marcos Carreira] (https://quantreg.com/people/marcos-carreira/)_
+  - Worked on the use of AI for trade anomaly detection. 
+  - Explored the use of supervised and unsupervised learning for anomaly detection in counterparty exposure profiles.
+  - Detected structural changes in P&L of a derivatives portfolio. 
