@@ -15,4 +15,4 @@ _Advisors : [Emmanuel Gobet] (http://www.cmap.polytechnique.fr/~gobet/) and [Ste
   - Used different techniques to simulate rare events (of very low-probability) such as the default of all banks in the network. 
   
 * ** Exploring the use of AI techniques for "intelligent anomaly detection" in data and its application to risk management **
-_Advisors : [Marcos Carreira] (https://quantreg.com/people/marcos-carreira/)
+_Advisors : [Marcos Carreira] (https://quantreg.com/people/marcos-carreira/)_
