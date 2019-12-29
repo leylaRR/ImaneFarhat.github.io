@@ -16,6 +16,7 @@ _Advisors : [Emmanuel Gobet](http://www.cmap.polytechnique.fr/~gobet/) and [Stef
   
 * **Exploring the use of AI techniques for intelligent anomaly detection in data and its application to risk management**
 _Advisors : [Marcos Carreira](https://quantreg.com/people/marcos-carreira/)_
+([Report](ImaneFarhat.github.io/PSC___Final_Report.pdf))
   - Worked on the use of AI for trade anomaly detection. 
   - Explored the use of supervised and unsupervised learning for anomaly detection in counterparty exposure profiles.
   - Detected structural changes in P&L of a derivatives portfolio. 
