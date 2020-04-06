@@ -18,10 +18,10 @@ _Advisors : [Emmanuel Gobet](http://www.cmap.polytechnique.fr/~gobet/) and [Stef
   - Used different techniques to simulate rare events (of very low-probability) such as the default of all banks in the network. 
 
 * **Statistical modeling of financial data**
-_Advisor : [Mathieu Rosenbaum](http://www.crest.fr/ses.php?user=3046) ([Report](ImaneFarhat.github.io/MAP565_Project.pdf))_
-  _ Applied a statistical analysis to a financial dataset of Bitcoin prices.
-  _ Explored time series analysis with ARIMA and GARCH models.
-  _ Studied the modeling of the volatility clustering effect with Poisson processes and Hawkes processes.
+_Advisor : [Mathieu Rosenbaum](http://www.crest.fr/ses.php?user=3046) ([Report](ImaneFarhat.github.io/MAP565_Project.pdf))._
+  - Applied a statistical analysis to a financial dataset of Bitcoin prices.
+  - Explored time series analysis with ARIMA and GARCH models.
+  - Studied the modeling of the volatility clustering effect with Poisson processes and Hawkes processes.
   
 * **On multi-currency arbitrage on FX options and calibration of a Wishart model**
 _Advisor : [Peter Tankov](https://www.lpsm.paris/pageperso/tankov/) ([Report](ImaneFarhat.github.io/P3A___Rapport_Final.pdf))._
