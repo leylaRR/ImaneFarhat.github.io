@@ -4,7 +4,7 @@ I am currently a third year student at Ecole Polytechnique majoring in Applied M
 ## Research projects
 
 * **Exploring the use of AI techniques for intelligent anomaly detection in data and its application to risk management**
-_Advisors : [Marcos Carreira](https://quantreg.com/people/marcos-carreira/)_
+_Advisors : [Marcos Carreira](https://quantreg.com/people/marcos-carreira/) and [Mathieu Rosenbaum](http://www.crest.fr/ses.php?user=3046)_
 ([Report](ImaneFarhat.github.io/PSC___Final_Report.pdf))
   - Worked on the use of AI for trade anomaly detection. 
   - Explored the use of supervised and unsupervised learning for anomaly detection in counterparty exposure profiles.
