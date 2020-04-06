@@ -28,3 +28,8 @@ _Advisor: [Peter Tankov](https://www.lpsm.paris/pageperso/tankov/) ([Report](Ima
   - Explored a model-free approach to detect arbitrage opportunities on FX options related to a triangle of exchange rates, for example options on the rates USD/EUR, JPY/EUR and JPY/USD. 
   - Calibrating the Wishart model for a triangle of exchange rates. 
   
+## Course projects
+
+* **Stochastic Calculus applied to finance - Computer Problem Sets**
+_Supervisor: [Nizar Touzi](http://www.cmap.polytechnique.fr/~touzi/)_
+[Folder](Finance_Stochastic_Calculus_Computer_Problem_Sets/CPS/)
