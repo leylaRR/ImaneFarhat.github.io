@@ -32,4 +32,4 @@ _Advisor: [Peter Tankov](https://www.lpsm.paris/pageperso/tankov/) ([Report](Ima
 
 * **Stochastic Calculus applied to finance - Computer Problem Sets**
 _Supervisor: [Nizar Touzi](http://www.cmap.polytechnique.fr/~touzi/)_
-[Folder](Finance_Stochastic_Calculus_Computer_Problem_Sets/CPS/)
+[Folder](ImaneFarhat/Finance_Stochastic_Calculus_Computer_Problem_Sets/CPS/)
